@@ -1,0 +1,1 @@
+Simple project JS Modal. I write this with course.
