@@ -1,1 +1,1 @@
-Simple project JS Modal. I write this with course.
+Simple project JS Modal. I write this with course, idea is not my but code is mine.
